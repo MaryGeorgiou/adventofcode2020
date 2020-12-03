@@ -32,4 +32,4 @@ def count_trees(data_array, steps_right, steps_down):
 
 
 slopes = load_data()
-slope = count_trees(slopes, 3, 1)
+trees_greeted_in_the_face = count_trees(slopes, 3, 1)

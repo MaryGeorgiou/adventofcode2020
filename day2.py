@@ -27,7 +27,7 @@ def complies_with_toboggan_policy(policy_password):
 
 
 def find_all_index_positions_of_char(list_of_chars, char):
-    # indexes are store with base 1
+    # indexes are stored with base 1
     index_pos_list = []
     index_pos = 0
     while True:
